@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Employee Management</string>
+    <string name="employees">Employees</string>
+    <string name="add_employee">Add Employee</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+    <string name="designation">Designation</string>
+    <string name="department">Department</string>
+    <string name="save">Save</string>
+
+    <!-- Error messages -->
+    <string name="error_name_required">Name is required</string>
+    <string name="error_email_required">Email is required</string>
+    <string name="error_invalid_email">Invalid email address</string>
+    <string name="error_phone_required">Phone is required</string>
+    <string name="error_invalid_phone">Phone must be at least 10 digits</string>
+    <string name="error_designation_required">Designation is required</string>
+    <string name="error_department_required">Department is required</string>
+
+    <string name="employee_saved">Employee saved successfully</string>
+</resources>
